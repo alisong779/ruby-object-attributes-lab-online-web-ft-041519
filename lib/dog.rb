@@ -1,10 +1,7 @@
-require pry 
 class Dog
-  def initialize 
-    @name = name
-    @breed = breed 
-  end
- binding.pry  
+  
+  def name 
+    @name 
  
   def breed
     @breed
