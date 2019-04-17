@@ -22,8 +22,7 @@ class Dog
   
 end 
 
-# fido = Dog.new 
-# snoopy = Dog.new 
-# fido.name = "Fido"
-# snoopy.breed = "Beagle"
+
+fido.name = "Fido"
+snoopy.breed = "Beagle"
 
