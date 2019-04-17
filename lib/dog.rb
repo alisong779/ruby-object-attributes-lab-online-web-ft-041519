@@ -4,17 +4,18 @@ class Dog
     @breed = dogs_breed
   end
 
-  def name=(new_dog_name, new_dog_breed)
-    @name = new_dog_name
-    @breed = new_dog_breed
-  end
-
   def name
     @name
   end
   def breed
     @breed
   end 
+  
+   def name=(new_dog_name, new_dog_breed)
+    @name = new_dog_name
+    @breed = new_dog_breed
+  end
+  
 end 
 
 # fido = Dog.new 
