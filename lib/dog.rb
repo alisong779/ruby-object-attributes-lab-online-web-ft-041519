@@ -4,9 +4,9 @@ class Dog
     @breed = dogs_breed
   end
 
-  def name=(dogs_name, dogs_breed)
-    @name = dogs_name
-    @breed = dogs_breed
+  def name=(new_dog_name, new_dog_breed)
+    @name = new_dog_name
+    @breed = new_dog_breed
   end
 
   def dogs_name
