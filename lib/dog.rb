@@ -6,7 +6,7 @@ class Dog
   def name
     @name
   end
-  
+ binding.pry  
   def breed
     @breed
   end 
