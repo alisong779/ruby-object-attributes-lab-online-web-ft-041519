@@ -23,6 +23,4 @@ class Dog
 end 
 
 
-fido.name = "Fido"
-snoopy.breed = "Beagle"
 
