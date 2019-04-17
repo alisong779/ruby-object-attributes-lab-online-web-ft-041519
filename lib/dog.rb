@@ -1,9 +1,5 @@
 require pry 
 class Dog
-  # def initialize
-  #   @name
-  #   @breed
-
   def name
     @name
   end
